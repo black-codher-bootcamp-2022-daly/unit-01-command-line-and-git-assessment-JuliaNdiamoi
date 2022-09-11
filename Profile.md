@@ -3,13 +3,12 @@
 https://www.youtube.com/
 
 *Add formatted text (bold/italic)*
-<ol>
-  <li>Movie 1 </li>
-  <li>Movie 2</li>
-  <li>Movie 3</li>
-  <li>Movie 4</li>
-  <li>Movie 5</li>
-</ol>
+
+1) Movie 1 
+2) Movie 2
+3) Movie 3
+4) Movie 4
+5) Movie 5
 
 Add task list of what you want to achieve during the bootcamp:
 - Learn Javascript
